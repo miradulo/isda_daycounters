@@ -1,5 +1,5 @@
 # isda_daycounters
-####_ISDA day-count conventions with year-fractions and daycounts_
+####_ISDA day-count conventions with year-fractions and day-counts_
 
 ---
 
