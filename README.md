@@ -9,6 +9,8 @@ So here is a very minimal ISDA day-count function collection, for the convention
 
 Each day count convention is placed in its own module with both `day_count()` and `year_fraction()` functions, to leverage Python's treatment of modules as first-class objects. 
 
-___TODO___: A bit more unit-testing if I get around to it. 
+---
+
+__TODO__: A bit more unit-testing if I get around to it. 
 
 
