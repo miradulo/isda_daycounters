@@ -11,6 +11,6 @@ Each day count convention is placed in its own module with both `day_count()` an
 
 ---
 
-__TODO__: A bit more unit-testing if I get around to it. 
+
 
 
