@@ -1,5 +1,5 @@
 """
-ISDA Actual/Actual day count convention.
+ISDA 30/360 day count convention.
 =====
 
 Implemented according to 2006 ISDA definition:
