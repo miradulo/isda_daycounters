@@ -12,7 +12,7 @@ A very minimal ISDA day-count function collection, for the conventions
 - _ThirtyE/360 (Eurobond)_
 - _ThirtyE/360 (ISDA)_
 
-_as defined in [the 2006 ISDA definition guidelines](http://www.hsbcnet.com/gbm/attachments/standalone/2006-isda-definitions.pdf) and [2008 ISDA definitions](https://www.isda.org/2008/12/22/30-360-day-count-conventions/). 
+as defined in [the 2006 ISDA definition guidelines](http://www.hsbcnet.com/gbm/attachments/standalone/2006-isda-definitions.pdf) and [2008 ISDA definitions](https://www.isda.org/2008/12/22/30-360-day-count-conventions/). 
 
 Each day count convention is placed in its own module with both `day_count()` and `year_fraction()` functions, to leverage Python's treatment of modules as first-class objects. 
 
