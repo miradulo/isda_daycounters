@@ -1,8 +1,8 @@
 """
-ISDA 30E/360 (euro bond basis) day count convention.
+ISDA 30E/360 (Eurobond basis) day count convention.
 =====
 
-Implemented according to 2006 ISDA definition:
+Implemented according to 2008 ISDA definition:
 https://www.isda.org/2008/12/22/30-360-day-count-conventions/
 """
 
@@ -20,5 +20,5 @@ def day_count(start_date, end_date):
 
 
 def year_fraction(start_date, end_date):
-    """Returns fraction in years between start_date and end_date, using Thirty/360 convention"""
+    """Returns fraction in years between start_date and end_date, using ThirtyE/360 convention"""
     return day_count(start_date, end_date) / 360.0
